@@ -9,7 +9,7 @@ import gsap from 'gsap';
 const Project = () => {
     let tl = new gsap.timeline();
     return (
-        <div className=' scrollbar duration-700 ease-in-out scrollbar-hidden'>
+        <div className=' scrollbar scrollbar-hidden duration-700 ease-in-out scroll-smooth'>
             <Nav timeline = {tl}/>
             <Index />
             <Footer />
