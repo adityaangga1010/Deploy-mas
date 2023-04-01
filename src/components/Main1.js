@@ -20,7 +20,7 @@ const Main1 = () => {
                     </div>
                     <div className=" mt-20 md:mt-10 lg:mr-24 flex justify-center">
                         <div className=" font-DMSans relative">
-                            <img className=' sticky z-10 w-[250x] md:w-[356px] md:h-[274px] h-[250px]' src={User} />
+                            <img className=' sticky z-10 ' src={User} />
                         </div>
                     </div>
                 </div>
