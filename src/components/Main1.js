@@ -20,7 +20,7 @@ const Main1 = () => {
                             <button className=' font-bold border border-[#9E6AF3] py-2 px-4 rounded-[4px] text-[#9E6AF3] text-sm z-10 relative overflow-hidden before:absolute before:left-0 before:top-0 before:bottom-0 before:-z-10 before:h-full before:w-full before:origin-top-left before:scale-y-0 before:bg-[#9E6AF3] before:transition-transform before:duration-300 hover:text-white dark:hover:text-[#181123] before:hover:scale-y-100 before:rounded-[4px]'>Contact Me !!</button>
                         </div></a>
                     </div>
-                    <div className=" mt-20 md:mt-10 md:mr-24 flex justify-center">
+                    <div className=" mt-20 md:mt-10 lg:mr-24 flex justify-center">
                         <div className=" font-DMSans relative">
                             <img className=' sticky z-10 w-[250x] md:w-[356px] md:h-[274px] h-[250px]' src={User} />
                         </div>
