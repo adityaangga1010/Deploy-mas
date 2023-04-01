@@ -1,7 +1,5 @@
 import React from 'react'
 import User from '../img/User.png'
-import Gambar2 from '../img/gambar2.svg'
-import Gambar3 from '../img/gambar3.svg'
 
 const Main1 = () => {
     return (
@@ -16,9 +14,9 @@ const Main1 = () => {
                         <div className=" pt-4 max-w-[264px] lg:max-w-[368px] xl:max-w-[400px]">
                             <div className=" text-[#AAAEAE]">Hi, i'm Aditya Angga Kistanto from Indonesia. I am a junior Front End Developer and Web Designer with 6 months experience and I'm still learning and exploring.</div>
                         </div>
-                        <a href="#mycontact"><div className=" pt-5 ">
-                            <button className=' font-bold border border-[#9E6AF3] py-2 px-4 rounded-[4px] text-[#9E6AF3] text-sm z-10 relative overflow-hidden before:absolute before:left-0 before:top-0 before:bottom-0 before:-z-10 before:h-full before:w-full before:origin-top-left before:scale-y-0 before:bg-[#9E6AF3] before:transition-transform before:duration-300 hover:text-white dark:hover:text-[#181123] before:hover:scale-y-100 before:rounded-[4px]'>Contact Me !!</button>
-                        </div></a>
+                        <div className=" pt-5 ">
+                            <a href="#mycontact"><button className=' font-bold border border-[#9E6AF3] py-2 px-4 rounded-[4px] text-[#9E6AF3] text-sm z-10 relative overflow-hidden before:absolute before:left-0 before:top-0 before:bottom-0 before:-z-10 before:h-full before:w-full before:origin-top-left before:scale-y-0 before:bg-[#9E6AF3] before:transition-transform before:duration-300 hover:text-white dark:hover:text-[#181123] before:hover:scale-y-100 before:rounded-[4px]'>Contact Me !!</button></a>
+                        </div>
                     </div>
                     <div className=" mt-20 md:mt-10 lg:mr-24 flex justify-center">
                         <div className=" font-DMSans relative">

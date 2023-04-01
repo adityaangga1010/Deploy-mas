@@ -39,9 +39,9 @@ const Project = () => {
                         image={Mok4}/>
                     </div>
                 </div>
-                <NavLink to='/project'><div className=" flex justify-center pt-14 px-4 lg:px-24">
-                    <button className=' font-bold border text-xs xl:text-sm bg-[#9E6AF3] border-[#9E6AF3] px-5 py-3 rounded-md text-[#fff] dark:text-[#181123] z-10 relative overflow-hidden before:absolute before:left-0 before:top-0 before:bottom-0 before:-z-10 before:h-full before:w-full before:origin-bottom before:scale-y-0 before:bg-[#fff] dark:before:bg-[#181123] before:transition-transform before:duration-300 dark:hover:text-[#9E6AF3] hover:text-[#9E6AF3] before:hover:scale-y-100 before:rounded-md'>View More {'>'}</button>
-                </div></NavLink>
+                <div className=" flex justify-center pt-14 px-4 lg:px-24">
+                    <NavLink to='/project'><button className=' font-bold border text-xs xl:text-sm bg-[#9E6AF3] border-[#9E6AF3] px-5 py-3 rounded-md text-[#fff] dark:text-[#181123] z-10 relative overflow-hidden before:absolute before:left-0 before:top-0 before:bottom-0 before:-z-10 before:h-full before:w-full before:origin-bottom before:scale-y-0 before:bg-[#fff] dark:before:bg-[#181123] before:transition-transform before:duration-300 dark:hover:text-[#9E6AF3] hover:text-[#9E6AF3] before:hover:scale-y-100 before:rounded-md'>View More {'>'}</button></NavLink>
+                </div>
             </div>
         </div>
     )
