@@ -2,7 +2,6 @@ import React from 'react'
 import Nav from '../components/Nav'
 import Index from '../components/Proj/Index'
 import Footer from '../components/Footer'
-
 // gsap
 import gsap from 'gsap';
 
