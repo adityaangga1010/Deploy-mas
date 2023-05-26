@@ -24,7 +24,7 @@ const Footer = () => {
                             <a className=' group' href=" https://www.instagram.com/aditya_angga_202/" target='_blank'>
                                 <Instagram />
                             </a>
-                            <a className=' group' href=" https://www.linkedin.com/in/aditya-angga-b8b531207/" target='_blank'>
+                            <a className=' group' href=" https://www.linkedin.com/in/aditya-angga-kistanto-b8b531207/" target='_blank'>
                                 <Linkedin />
                             </a>
                             <a className=' group' href=" https://web.facebook.com/aditya.angga.353803" target='_blank'>
