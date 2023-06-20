@@ -79,7 +79,7 @@ const Services = () => {
               </div>
               <div className=" mt-6 px-11 md:px-0 mb-1">
                 <h1 className=' md:absolute md:top-2 md:ml-20 text-center font-bold text-2xl text-[#434343] dark:text-[#D4D2D8]'>Next.js</h1>
-                <h1 className=' md:text-start text-center mt-2 text-[#AAAEAE] text-xl'>Server Side Rendering, Built-in CSS Support, Layout Component, Type Script</h1>
+                <h1 className=' md:text-start text-center mt-2 text-[#AAAEAE] text-xl'>Server Side Rendering, Built-in CSS Support, Layout Component, Type Script.</h1>
               </div>
             </div>
           </div>
