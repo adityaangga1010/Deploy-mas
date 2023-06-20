@@ -3,6 +3,9 @@ import Tailwind from '../img/tailwind.svg'
 import React1 from '../img/react.svg'
 import Laravel1 from '../img/laravel.svg'
 import Figma1 from '../img/figma.svg'
+import Flutter from '../img/flutter.svg'
+import Next from '../img/Next'
+
 const Services = () => {
   return (
     <div className='mt-20'>
@@ -55,6 +58,28 @@ const Services = () => {
               <div className=" mt-6 px-11 md:px-0 mb-1">
                 <h1 className=' md:absolute md:top-2 md:ml-20 text-center font-bold text-2xl text-[#434343] dark:text-[#D4D2D8]'>Figma</h1>
                 <h1 className=' md:text-start text-center mt-2 text-[#AAAEAE] text-xl'>Wireframing, User Flow, Landing page, Mobile Design App, Web Design App.</h1>
+              </div>
+            </div>
+            <div className=" md:relative md:w-full mt-16 md:mt-0">
+              <div className=" md:justify-start flex justify-center">
+                <div className=" bg-[#fff] dark:bg-[#181123] w-12 h-12 rounded-lg shadow-lg dark:shadow-black flex justify-center items-center">
+                  <img src={Flutter}/>
+                </div>
+              </div>
+              <div className=" mt-6 px-11 md:px-0 mb-1">
+                <h1 className=' md:absolute md:top-2 md:ml-20 text-center font-bold text-2xl text-[#434343] dark:text-[#D4D2D8]'>Flutter</h1>
+                <h1 className=' md:text-start text-center mt-2 text-[#AAAEAE] text-xl'>Slicing UI, Responsif UI, UI Fleksible, Tools Artificial Intelligence, Fast Development.</h1>
+              </div>
+            </div>
+            <div className=" md:relative md:w-full mt-16 md:mt-0">
+              <div className=" md:justify-start flex justify-center">
+                <div className=" bg-[#fff] dark:bg-[#181123] w-12 h-12 rounded-lg shadow-lg dark:shadow-black flex justify-center items-center">
+                    <Next />      
+                </div>
+              </div>
+              <div className=" mt-6 px-11 md:px-0 mb-1">
+                <h1 className=' md:absolute md:top-2 md:ml-20 text-center font-bold text-2xl text-[#434343] dark:text-[#D4D2D8]'>Next.js</h1>
+                <h1 className=' md:text-start text-center mt-2 text-[#AAAEAE] text-xl'>Server Side Rendering, Built-in CSS Support, Layout Component, State Management/</h1>
               </div>
             </div>
           </div>
