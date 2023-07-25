@@ -12,10 +12,10 @@ const Viewproj2 = () => {
         <div className=' scrollbar scrollbar-hidden duration-700 ease-in-out scroll-smooth '>
             <Nav timeline = {tl}/>
                 <Card1 
-                title="LandingPage School"
-                date="January 2022"
-                tools="Figma"
-                description="Training Aplication Landing Page(SMP AL-IRSYAD)"
+                title="Authentikasi"
+                date="Mei 2023"
+                tools="Visual studio Code, Xcode, Android Studio, Firebase"
+                description="Create an authentication application, using Flutter, GetX, Firebase"
                 image={Mokeup2}
                 />
             <Footer/>

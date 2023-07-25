@@ -27,8 +27,8 @@ const Index = () => {
                         link="/project/dashboard-admin"
                         image={Mokeup3}/>
                         <Card0
-                        title="Landing Page School"
-                        list="UI/UX Design"
+                        title="Authentikasi"
+                        list="Flutter, GetX, Firebase"
                         link="/project/landing-page"
                         image={Mokeup2}/>
                         <Card0
